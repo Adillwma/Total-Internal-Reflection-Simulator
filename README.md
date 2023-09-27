@@ -2,13 +2,6 @@
 # Total Internal Reflection (TIR) Visualizer
 ### Author: Adill Al-Ashgar
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="https://www.youtube.com/watch?v=NAaHPRsveJk" alt="Watch the video" width="240" height="180" />
-</a>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/NAaHPRsveJk?si=8mCQnvlAI69EIzgj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</a>
 
 ## Introduction
 Simple simulation of the phenomena of total internal reflection (TIR) usefull as a teaching resource. Inspired by QuantumBoffin and his simple and beautiful [Total Internal Reflection video](https://www.youtube.com/watch?v=NAaHPRsveJk).
